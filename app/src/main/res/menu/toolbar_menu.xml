@@ -2,7 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
+        android:id="@+id/send"
         android:icon="@drawable/ic_send_black_24dp"
-        app:showAsAction="always|collapseActionView"/>
+        android:title="aaa"
+        app:showAsAction="always"/>
 
 </menu>
